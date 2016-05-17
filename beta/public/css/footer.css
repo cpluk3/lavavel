@@ -1,0 +1,27 @@
+#footer {
+	height: 50px;
+	width: 80%;
+	margin-left: 5%;
+	padding-left: 5%;
+	padding-right: 5%;
+	margin-top: 50px;
+	padding-top: 10px;
+	border-top:1px solid #cdcdcd;
+}
+
+#footer .footer-item{
+	float: left;
+	width: 30%;
+	color: grey;
+}
+
+#footer #footer-skype{
+}
+
+#footer #footer-email{
+
+}
+
+#footer #footer-name{
+	
+}

@@ -1,0 +1,102 @@
+#contactus{
+	margin-left: 10%;
+}
+
+#contactus-left{
+	width: 40%;
+	display: block;
+	float: left;
+}
+
+#contactus-left p{
+	margin-bottom: 20px;
+}
+
+#contactus-left #form-left ul{
+	width: 200px;
+	text-align: right;
+	float: left;
+}
+
+#contactus-left #form-left li{
+	margin-bottom: 12px;
+	list-style: none;
+	margin-right: 20px;
+	height: 20px;
+}
+
+#contactus-left #form-right ul{
+}
+
+#contactus-left #form-right li{
+	margin-bottom: 10px;
+	list-style: none;
+}
+
+#contactus-left #form-right input{
+	border: 1px solid #cdcdcd;
+	height: 20px;
+}
+
+#contactus-left #form-right .inputbox{
+	width: 200px;
+}
+
+#contactus-left #form-right textarea{
+	border: 1px solid #cdcdcd;
+	margin-top: 5px;
+	width: 200px;
+	height: 150px;
+}
+
+#contactus-left #form-right #submit{
+	margin-left: 50px;
+	margin-right: 50px;
+	height: 30px;
+	width: 100px;
+	float:left;
+}
+
+
+#contactus-left #form-right .radio{
+	margin-right: 30px;
+	margin-top: 5px;
+}
+
+#contactus-left #form-right span{
+	margin-right: 5px;
+}
+
+#contactus-right{
+	width: 50%;
+	margin-left: 45%;
+}
+
+#contactus-right ul{
+	list-style: none;
+	margin-top: 20px;
+	padding: 20px;
+	border: 1px solid #dedede;
+	border-right: 2px solid #5F5F5F;
+	border-bottom: 2px solid #5F5F5F;
+	width: 50%;
+	height: 240px;
+}
+
+#contactus-right li{
+	font-size: 18px;
+	height: 25%;
+}
+
+#contactus-right span.left-info{
+	width: 33%;
+	float: left;
+}
+
+#contactus-right span.right-info{
+	width: 67%;
+	float: left;
+	margin-bottom: 10px;
+}
+
+

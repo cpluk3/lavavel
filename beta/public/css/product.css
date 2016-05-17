@@ -1,0 +1,155 @@
+#product{
+	clear: both;
+}
+
+#product ul{
+	list-style: none;
+}
+
+#product a{
+	text-decoration: none;
+	color: purple;
+}
+
+#product #main-menu{
+	margin-left: 2%;
+	margin-top: 20px;
+	width: 18%;
+	float: left;
+}
+
+#product #main-menu h4{
+	font-size: 120%;
+	margin-bottom: 10px;
+}
+
+#product #main-menu li{
+	margin-bottom: 10px;
+}
+
+#product #main-menu a{
+	text-decoration: none;
+	color: purple;
+}
+
+#product #sub-menu{
+	width: 16%;
+	float: left;
+	margin-top: 30px;
+	border: 1px solid #cecece;
+	padding: 1%;
+}
+
+#product #sub-menu a{
+	text-decoration:none;
+}
+
+#product #item-list{
+	float: right;
+	width: 58%;	
+	margin-left: 2%;
+	position:relative;
+	height: 500px;
+}
+
+#product #item-list .item{
+	float: left;
+	margin: 5px;
+	width: 22%;
+}
+
+#product #item-list img{
+	width: 100%;
+	border: 1px solid #cecece;
+}
+
+#product #item-list .item span{
+	margin-top: 2px;
+	display: block;
+	text-align: center;
+	width: 100%;
+	color: black;
+	float: left;
+	overflow-x: hidden;
+	white-space: nowrap;
+}
+
+#product #item-list .item-row{
+	margin-bottom: 50px;
+}
+
+#product #item-list #pagination{
+	margin-top: 20px;
+	float: right;
+	margin-right: 8%;
+	position:absolute;
+	bottom:0;
+	right:20px;
+}
+
+#product #item-list #pagination img{
+	width: 20px;
+	padding:2px;
+}
+
+#product #item-list #pagination li{
+	float: left;
+	margin-left: 2px;
+	margin-right: 2px;
+	width: 25px;
+}
+
+#product #item-list #pagination span, #product #item-list #pagination a{
+	display: block;
+	min-width: 25px;
+	text-align: center;
+	height: 20px;
+	/*color: #195d5d;*/
+	border: 1px solid #dedede;
+	padding-top: 4px;
+	font-size: 110%;
+}
+
+#product #item-list #item-details{
+	margin-left: 2%;
+}
+
+
+#product #item-list #item-details #item-pic{
+	width: 52%;
+	margin: 1%;
+	float: left;
+}
+#product #item-list #item-details #item-info{
+	margin: 1%;
+	width: 42%;
+	height:500px;
+	float: left;
+}
+
+#product #item-list #item-details #item-pic img{
+	width: 100%; 
+}
+
+#product #item-list #item-details #item-text{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+#product #item-list #item-details #item-nav{
+	margin-left: 35%;
+	margin-top: 20px;
+}
+
+
+#product #item-list #item-details #item-nav li{
+	float: left;
+}
+
+#product #item-list #item-details #item-nav img{
+	width: 30px;
+}
+
+#product #item-nav img{
+	margin: 5px;
+}

@@ -1,0 +1,9 @@
+#banner{
+	clear: both;
+	margin-left: 5%;
+	/*height: 350px;*/
+}
+
+#banner img{
+	width: 95%;
+}

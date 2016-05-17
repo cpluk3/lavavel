@@ -1,0 +1,29 @@
+#main-form{
+	width: 70%;
+	margin-left: 5%;
+}
+
+.form-group {
+	height: 50px;
+	display:block;
+}
+
+.form-group input{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+legend{
+	font-weight: bold;
+	margin-left: 50px;
+}
+
+.form-group img{
+	float: right;
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	border: 1px solid #cdcdcd;
+}
+
+
